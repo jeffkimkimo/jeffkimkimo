@@ -1,64 +1,103 @@
-<!-- If you're reading the source, welcome behind the scenes. -->
+<!-- Welcome behind the scenes. -->
+
+![Jeffkim — Cinema meets machine intelligence](assets/hero.svg)
 
 <div align="center">
 
-# Jeffkim
+**Building tools for stories, screens, and everyday distractions.**
 
-### Cinema × machine intelligence
-
-**Computer science at Alfred University · Class of 2029**
-
-I build tools for stories, screens, and everyday distractions.<br>
-My interests meet where filmmaking, computer vision, and useful software overlap.
-
-[Portfolio](https://jeffkim.work) · [Email](mailto:jeffkimkimo@gmail.com) · [Projects](#selected-projects)
+<a href="https://jeffkim.work"><img alt="Visit my portfolio" src="https://img.shields.io/badge/PORTFOLIO-a8d8c0?style=for-the-badge&amp;logo=safari&amp;logoColor=111b27" /></a>
+&nbsp;
+<a href="mailto:jeffkimkimo@gmail.com"><img alt="Email Jeffkim" src="https://img.shields.io/badge/LET'S_TALK-f0b47c?style=for-the-badge&amp;logo=gmail&amp;logoColor=111b27" /></a>
 
 </div>
 
----
+<br>
 
-## The current frame
+### ◉ &nbsp; In the current frame
 
-I'm exploring how software can help people develop stories and work with video—from screenplay structure to finding the source of a clip. I also build small, focused apps around questions that stick with me: *How many steps have I taken in my lifetime? Can a webcam catch me doomscrolling?*
+I'm **Jeffkim**, a computer science student at **Alfred University, class of 2029**. I'm exploring the overlap between filmmaking, computer vision, and useful software—from screenplay structure to finding the source of a video clip.
 
-I like clear constraints, interfaces that stay out of the way, and learning by shipping.
+I like clear constraints, thoughtful interfaces, and small ideas that become things you can actually use.
 
-## Selected projects
+<br>
 
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| [Eric Edson Story Skill](https://github.com/jeffkimkimo/eric-edson-story-skill) | Helps develop and diagnose screenplays through character goals, act structure, and story beats using Eric Edson's method. | Codex skill · Markdown |
-| [Movie Clip Identifier](https://github.com/jeffkimkimo/movie_clip_identifier) | A proof of concept that matches short clips to source videos in a local catalog using visual fingerprints. | Python · SQLite · FFmpeg |
-| [Doomscroll Alarm](https://github.com/jeffkimkimo/doomscrolleralarm) | Uses a webcam to detect poor posture or a phone, then interrupts with on-screen roasts and a video. | Python · OpenCV · YOLOv5 |
-| [TotalSteps](https://github.com/jeffkimkimo/TotalSteps) | A minimalist step tracker built around one question: how many steps have you taken in your lifetime? | Swift |
-| [MyHaven](https://github.com/jeffkimkimo/myhaven) | My personal portfolio, bringing my projects together at [jeffkim.work](https://jeffkim.work). | JavaScript |
+### ↗ &nbsp; Selected projects
 
-## Exploring in open source
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/jeffkimkimo/eric-edson-story-skill"><img src="assets/story.svg" width="100%" alt="Eric Edson Story Skill — Story systems" /></a>
+<p>Develop and diagnose screenplays through character goals, act structure, and story beats using Eric Edson's method.</p>
+<p><code>Codex skill</code> <code>Markdown</code></p>
+<a href="https://github.com/jeffkimkimo/eric-edson-story-skill">Explore the project ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/jeffkimkimo/movie_clip_identifier"><img src="assets/video.svg" width="100%" alt="Movie Clip Identifier — Computer vision" /></a>
+<p>Match short clips to source videos in a local catalog. A proof of concept built around visual fingerprints.</p>
+<p><code>Python</code> <code>SQLite</code> <code>FFmpeg</code></p>
+<a href="https://github.com/jeffkimkimo/movie_clip_identifier">Explore the project ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/jeffkimkimo/doomscrolleralarm"><img src="assets/focus.svg" width="100%" alt="Doomscroll Alarm — Everyday experiments" /></a>
+<p>A webcam that catches poor posture or a phone in view—and interrupts your scrolling with roasts and a video.</p>
+<p><code>Python</code> <code>OpenCV</code> <code>YOLOv5</code></p>
+<a href="https://github.com/jeffkimkimo/doomscrolleralarm">Explore the project ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/jeffkimkimo/TotalSteps"><img src="assets/steps.svg" width="100%" alt="TotalSteps — Small, useful apps" /></a>
+<p>How many steps have you taken in your lifetime? A minimalist step tracker built around that one question.</p>
+<p><code>Swift</code></p>
+<a href="https://github.com/jeffkimkimo/TotalSteps">Explore the project ↗</a>
+</td>
+</tr>
+</table>
 
-These repositories are forks of existing projects:
+**Elsewhere:** [MyHaven](https://github.com/jeffkimkimo/myhaven), the code behind my [personal portfolio ↗](https://jeffkim.work).
 
-- **[starc](https://github.com/jeffkimkimo/starc)** — screenwriting software in C++; a place to explore how writing tools are built.
-- **[AI-Storyboard](https://github.com/jeffkimkimo/AI-Storyboard)** — agent skills and workflows for storyboard creation and pre-visualization.
+<br>
 
-## The toolkit
+### ⌘ &nbsp; The toolkit
 
-**Languages** · Python, C++, JavaScript, Swift<br>
-**Tools & frameworks** · FastAPI, OpenCV, Streamlit, Git
+![Python](https://img.shields.io/badge/Python-162230?style=for-the-badge&logo=python&logoColor=a8d8c0)
+![C++](https://img.shields.io/badge/C%2B%2B-162230?style=for-the-badge&logo=cplusplus&logoColor=a8d8c0)
+![JavaScript](https://img.shields.io/badge/JavaScript-162230?style=for-the-badge&logo=javascript&logoColor=f0b47c)
+![Swift](https://img.shields.io/badge/Swift-162230?style=for-the-badge&logo=swift&logoColor=f0b47c)
 
-## How I build
+![FastAPI](https://img.shields.io/badge/FastAPI-162230?style=flat-square&logo=fastapi&logoColor=a8d8c0)
+![OpenCV](https://img.shields.io/badge/OpenCV-162230?style=flat-square&logo=opencv&logoColor=c4b5ef)
+![Streamlit](https://img.shields.io/badge/Streamlit-162230?style=flat-square&logo=streamlit&logoColor=f0b47c)
+![Git](https://img.shields.io/badge/Git-162230?style=flat-square&logo=git&logoColor=8dc9e2)
 
-- **Start with a specific question.** Give the tool a clear job.
-- **Let constraints shape the work.** Keep the scope small enough to finish and learn from.
-- **Make the interface earn its place.** Help people get to what they came for.
-- **Ship, test, revise.** Treat the first version like a first cut.
+<br>
 
----
+<details>
+<summary><b>Behind the scenes · open source &amp; how I build</b></summary>
+
+#### Exploring in open source
+
+These are **forks of existing projects**:
+
+- [starc](https://github.com/jeffkimkimo/starc) — exploring how screenwriting software is built in C++.
+- [AI-Storyboard](https://github.com/jeffkimkimo/AI-Storyboard) — agent skills and workflows for storyboards and pre-visualization.
+
+#### From first idea to final cut
+
+**01 · Start with a question.** Give the tool a clear job.<br>
+**02 · Work with constraints.** Keep the scope small enough to finish.<br>
+**03 · Make the interface earn its place.** Help people get to what they came for.<br>
+**04 · Ship, test, revise.** Treat the first version like a first cut.
+
+</details>
+
+<br>
 
 <div align="center">
 
-**Interested in film, AI, or building something useful?**<br>
-[Get in touch](mailto:jeffkimkimo@gmail.com) · [Visit my portfolio](https://jeffkim.work)
-
-*Still building. Still in the edit.*
+**Into film, AI, or making something useful?** [Let's talk ↗](mailto:jeffkimkimo@gmail.com)
 
 </div>
+
+![Still building. Still in the edit.](assets/footer.svg)
