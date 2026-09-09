@@ -41,10 +41,10 @@ I like clear constraints, thoughtful interfaces, and small ideas that become thi
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/jeffkimkimo/doomscrolleralarm"><img src="assets/focus.svg" width="100%" alt="Doomscroll Alarm — Everyday experiments" /></a>
-<p>A webcam that catches poor posture or a phone in view—and interrupts your scrolling with roasts and a video.</p>
-<p><code>Python</code> <code>OpenCV</code> <code>YOLOv5</code></p>
-<a href="https://github.com/jeffkimkimo/doomscrolleralarm">Explore the project ↗</a>
+<a href="https://github.com/jeffkimkimo/starc"><img src="assets/starc.svg" width="100%" alt="STARC — Screenwriting software" /></a>
+<p>Exploring how screenwriting tools are built through my fork of STARC, an open-source screenwriting application.</p>
+<p><code>C++</code> <code>Open-source fork</code></p>
+<a href="https://github.com/jeffkimkimo/starc">Explore the project ↗</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/jeffkimkimo/TotalSteps"><img src="assets/steps.svg" width="100%" alt="TotalSteps — Small, useful apps" /></a>
