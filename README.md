@@ -73,6 +73,24 @@ I like clear constraints, thoughtful interfaces, and small ideas that become thi
 
 <br>
 
+### ◷ &nbsp; The contribution reel
+
+<div align="center">
+
+<sub>One frame at a time. A year of building, in color.</sub>
+
+<br><br>
+
+<a href="https://github.com/jeffkimkimo?tab=overview">
+  <img src="assets/contributions.svg" width="100%" alt="Jeffkim’s contribution calendar: mint-to-amber daily activity, total contributions, active days, and peak day" />
+</a>
+
+<sub>Daily GitHub contributions · <a href="https://github.com/jeffkimkimo?tab=overview">View full contribution history ↗</a></sub>
+
+</div>
+
+<br>
+
 <details>
 <summary><b>Behind the scenes · open source &amp; how I build</b></summary>
 
